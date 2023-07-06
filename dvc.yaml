@@ -40,3 +40,6 @@ artifacts:
     type: model
     labels:
     - cv
+  add-model-in-all-brahcnes:
+    path: add-model-in-all-brahcnes
+    type: model
